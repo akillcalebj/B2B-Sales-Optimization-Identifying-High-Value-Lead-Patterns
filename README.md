@@ -13,4 +13,4 @@ This project analyzes B2B sales data to identify which lead segments drive the m
 - **Channel Optimization:** LinkedIn outreach outperformed Email by 40% in total deal value.
 
 ## 🔗 Links
-[View Interactive Tableau Dashboard][(https://public.tableau.com/views/B2BSalesAnalysis/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/B2BSalesAnalysis/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
