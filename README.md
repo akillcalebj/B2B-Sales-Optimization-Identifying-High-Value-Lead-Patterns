@@ -1,2 +1,16 @@
-# B2B-Sales-Optimization-Identifying-High-Value-Lead-Patterns
-The Problem: A company has thousands of leads but a low conversion rate. The Goal: Use SQL and Python to identify which lead characteristics (Industry, Company Size, Outreach Channel) result in the highest ROI.
+# B2B Sales Optimization: Identifying High-Value Lead Patterns
+
+## 📊 Overview
+This project analyzes B2B sales data to identify which lead segments drive the most revenue. The goal is to provide data-backed recommendations for the sales team to optimize their outreach strategy.
+
+## 🛠️ Tech Stack
+- **SQL:** Data extraction and cleaning.
+- **Python (Pandas):** Statistical analysis.
+- **Tableau:** Interactive dashboarding.
+
+## 📈 Key Insights
+- **Segment Alpha:** Leads from the Tech sector have a 25% higher conversion rate.
+- **Channel Optimization:** LinkedIn outreach outperformed Email by 40% in total deal value.
+
+## 🔗 Links
+[View Interactive Tableau Dashboard](PASTE_YOUR_TABLEAU_LINK_HERE)
